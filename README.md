@@ -92,9 +92,11 @@ Flags:
 ```
 
 ## 注意
-安装完trojan后强烈建议开启BBR等加速: [Linux-NetSpeed](https://github.com/chiakge/Linux-NetSpeed)  
+开启BBR等加速: [Linux-NetSpeed](https://github.com/chiakge/Linux-NetSpeed)  
 
 推荐的trojan客户端: 
    - pc: [Trojan-Qt5](https://github.com/TheWanderingCoel/Trojan-Qt5)
    - ios: [shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118)
    - android: [igniter](https://github.com/trojan-gfw/igniter)
+  
+vps开启加速后有很大几率会无法连接到vps。
